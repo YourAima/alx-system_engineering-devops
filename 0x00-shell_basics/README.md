@@ -6,4 +6,4 @@ Command to list all files including hidden items: ls -alt
 Command to list all files with numerig UID and GID: ls -aln
 Command to create a directory under tmp: mkdir /tmp/my_first_directory
 Command to move the file from one folder to another: mv /tmp/betty /tmp/my_first_directory/
-
+Command to delete the file: rm -rf /tmp/my_first_directory/betty
