@@ -11,4 +11,5 @@ Command to delete a directory: `rm -rf /tmp/my_first_directory/`
 Commmand to change the directory to the previous one: `cd -`  
 Command to list all files in current, parent, /boot directories in a long format: `ls -la . .. /boot`  
 Command to show the type of a file: `file /tmp/iamafile`
-Command to create a symbolic link: `ln -s /bin/ls __ls_`_
+Command to create a symbolic link: `ln -s /bin/ls __ls__`
+Commad to coy updated files: `cp -u *.html ..`
