@@ -5,4 +5,5 @@ Command to list groups: `groups`
 Command to change the owner: `chown betty hello`
 Command to create an empty file: `touch hello`
 Command to make a file executable: `chmod u+x hello`
+Command to grant multiple permissions: `chmod 774 hello`
 
