@@ -11,3 +11,4 @@ Command to grant full permission to others only: `chmod 007 hello`
 Command to grant permission john doe: `chmod 753 hello`
 Command to grant permission rw rw r : `chmod 662 hello`
 Command to grant executable permission to only subdirectories: `chmod _R +X`
+Command to create a directory with permission: `mkdir -m751 my_dir`
