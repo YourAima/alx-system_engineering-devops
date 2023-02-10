@@ -9,4 +9,4 @@ Command to grant multiple permissions: `chmod 754 hello`
 Command to grant permission to everybody: `chmod 751 hello`
 Command to grant full permission to others only: `chmod 007 hello`
 Command to grant permission john doe: `chmod 753 hello`
-
+Command to grant permission rw rw r : `chmod 662 hello`
